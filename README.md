@@ -10,4 +10,10 @@
     <script src="hammer.min.js"></script>
     <script src="muuri.min.js"></script>
 </code>
-- 
+- Run with Live Server
+
+# Before drag and drop
+<img src="https://github.com/MohammedDeveloper/muuri-grid/blob/master/demo1.PNG" />
+
+# After drag and drop
+<img src="https://github.com/MohammedDeveloper/muuri-grid/blob/master/demo2.PNG" />
